@@ -1,0 +1,53 @@
+body{
+background: #eeeeee;
+}
+ 
+.content{
+width:700px;
+margin:0 auto;
+border:1px solid #dddddd;
+padding:20px;
+background: #ffffff;
+}
+ 
+td{
+width:650px;
+border-bottom: 1px dotted #60676a;
+padding: 20px;
+}
+ 
+#date{
+color: #666666;
+font-size: 13px;
+}
+ 
+#title{
+color:#006600;
+}
+ 
+#title a{
+color:#000000;
+text-decoration: none;
+}
+ 
+#title a:hover{
+color:#009966;
+}
+ 
+#float_r{
+float:right;
+color:#C74E3E;
+font-size: 14px;
+font-weight: bold;
+}
+ 
+#float_r a{
+color:#C74E3E;
+font-weight: bold;
+text-decoration: none;
+font-size: 13px;
+}
+ 
+#float_r a:hover{
+color:#009900;
+}
